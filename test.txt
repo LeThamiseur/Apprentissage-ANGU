@@ -1,4 +1,3 @@
 <html>
-maintenant le pull
-Révision de git
+Ca va aller avec le pull
 </html>
